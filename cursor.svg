@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mogaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF69B4" /> 
+      <stop offset="100%" stop-color="#00BFFF" />
+    </linearGradient>
+  </defs>
+  
+  <!-- A soft, rodless organic shape -->
+  <rect x="4" y="4" width="24" height="24" rx="12" fill="url(#mogaGradient)" />
+</svg>
